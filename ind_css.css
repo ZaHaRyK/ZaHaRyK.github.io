@@ -1,0 +1,73 @@
+﻿.div_animain {
+    margin-right: 100px;
+    margin-top: 14%;
+    width: 25px;
+    height: 50px;
+    background-color: #2196F3;
+    transition: width 2s cubic-bezier(0, 0, 0.44, 1.1)
+    10ms;
+    border-radius: 15px;
+    position: fixed;
+    z-index: 100; 
+}
+.div_animain:hover {
+    width: 32%;
+    z-index: 100;
+    position: fixed;
+}
+.ffff{
+    position: fixed;
+    width: 600px;
+    height: 250px;
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+    border: 5px solid #c7c7c7;
+}
+body{
+    font-family: 'Kanit', sans-serif;
+}
+.h2{
+    position: fixed;
+    margin-top: 10px;
+}
+.h3{
+    position: fixed;
+    margin-top: 40px;
+}
+.gmail{
+    margin-top: 150px;
+    position: fixed;
+}
+.telegram{
+    position: fixed;
+    margin-top: 150px;
+    margin-left: 48px;
+}
+.h2c{
+    margin-top: 195px;
+    margin-left: 30px;
+    position: fixed;
+}
+.html{
+    color: #f8f8f8;
+    margin-top: 200px;
+    z-index: 110;
+    margin-left: 60px;
+}
+.js{
+    
+    color: #f8f8f8;
+    margin-top: 200px;
+    z-index: 110;
+    margin-left: 80px;
+}
+.css{
+    color: #f8f8f8;
+    margin-top: 200px;
+    z-index: 110;
+    margin-left: 100px;
+    
+}
